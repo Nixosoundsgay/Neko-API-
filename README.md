@@ -1,5 +1,4 @@
 # Neko-API-
-# Wrap
 
 Python wrapper for the Cat Fact API (https://catfact.ninja)
 
