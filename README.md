@@ -34,6 +34,7 @@ Methods
 •  close() — closes the session
 ```
 Notes
+
 It retries failed requests a few times automatically.
 There’s a small cache so it doesn’t spam the API for the same request.
 If something goes wrong it raises custom errors like APIConnectionError or RateLimitError.
